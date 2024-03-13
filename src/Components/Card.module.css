@@ -1,0 +1,46 @@
+img{ height: 100px;
+    width: 150px;
+;
+    border-radius: 30px;
+    transition: transform 0.3s ease;
+    
+
+
+}
+
+h1{
+    color: black;
+    margin-top: 2px;
+    text-align: center;
+    font-size: small;
+    font-family:Arial, Helvetica, sans-serif;
+    color:white
+    
+}
+
+
+div{margin-top: 100px;
+    display:inline-block;
+    padding: 10px;
+
+
+}
+
+
+img:hover{
+    
+    cursor: pointer;
+    transition: all .3s ease-in-out;
+    transform: scale(1.1)
+}
+
+img:not(:hover){
+    transition: all .3s ease-in-out;
+}
+
+a{
+    text-decoration: none;
+}
+
+
+

@@ -1,0 +1,13 @@
+input{
+    height: 60px;
+    width: 600px;
+    border-radius: 50px;
+    background-color: aliceblue;
+    position: absolute; /* ou position: relative; */
+     /* ou position: relative; */
+    top: 80px;
+    left: 400px;
+    float:left;
+    
+}
+
